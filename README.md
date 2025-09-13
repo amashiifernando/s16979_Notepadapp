@@ -35,6 +35,7 @@ The application also includes basic editing features (Cut, Copy, Paste) and an "
    cd notepad-mini-project
    ```
    use the repo-url as;
+   https://github.com/amashiifernando/s16979_Notepadapp.git
    
    
 4. Compile the program:
