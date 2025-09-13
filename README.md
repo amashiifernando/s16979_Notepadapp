@@ -21,28 +21,42 @@ The application also includes basic editing features (Cut, Copy, Paste) and an "
 
 ## Setup Instructions
 
--Install Java 8 or later.
+1.Install Java 8 or later.
 
--Clone this repository:
+* To check your version:
 
-git clone 
+     ```sh
+     java -version
+     ```
+2. Clone this repository:
 
-cd notepad-mini-project
+   ```sh
+   git clone <your-repo-url>
+   cd notepad-mini-project
+   ```
+   use the repo-url as;
+   
+   
+4. Compile the program:
+
+   ```sh
+   javac Notepad.java
+   ```
+5. Run the program:
+
+   ```sh
+   java Notepad
+   ```
 
 
-Compile the program:
-
-javac Notepad.java
 
 
-Run the program:
 
-java Notepad
+
 
 ## Assumptions & Notes
 
 -No external libraries are required (only standard Java libraries).
-
 
 -File operations (Open/Save) use the system’s default file chooser dialog.
 
