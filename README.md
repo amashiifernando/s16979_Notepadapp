@@ -34,16 +34,16 @@ The application also includes basic editing features (Cut, Copy, Paste) and an "
    git clone <your-repo-url>
    cd notepad-mini-project
    ```
-   use the repo-url as;
+   Replace `<your-repo-url>` with this GitHub repo link ;
    https://github.com/amashiifernando/s16979_Notepadapp.git
    
    
-4. Compile the program:
+3. Compile the program:
 
    ```sh
    javac Notepad.java
    ```
-5. Run the program:
+4. Run the program:
 
    ```sh
    java Notepad
